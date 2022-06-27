@@ -2,3 +2,8 @@
 
 PuppetterとEarthlyを試してみた時のサンプル
 
+## example
+
+```
+earthly +screenshot
+```
